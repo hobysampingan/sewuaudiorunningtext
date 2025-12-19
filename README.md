@@ -77,7 +77,7 @@ Install melalui Arduino Library Manager:
 ### Install HJS589
 
 ```
-1. Download dari: https://github.com/nicklfretz/HJS589
+1. Download dari: [https://github.com/nicklfretz/HJS589](https://github.com/hobysampingan/sewuaudiorunningtext/tree/main/HJS589)
 2. Sketch → Include Library → Add .ZIP Library
 3. Pilih file ZIP yang didownload
 ```
